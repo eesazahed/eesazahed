@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello. I'm [Eesa Zahed](https://eesazahed.github.io/website). I'm 13 years old and I enjoy math, science, and front-end web developement.
+### Hello. 
+I'm [Eesa Zahed](https://eesazahed.github.io/website). I'm 13 years old and I enjoy math, science, and front-end web developement.
 
 I have skills with HTML, CSS, Javascript, NodeJS, ReactJS, and some basic Python.
 
