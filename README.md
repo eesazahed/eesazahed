@@ -25,7 +25,7 @@ I have skills with HTML, CSS, Javascript, NodeJS, ReactJS, and some basic Python
 
 - [React Simple Messaging](https://github.com/EesaZahed/react-simple-messaging)
 - [Lego Set Finder](https://github.com/EesaZahed/lego-set-finder/)
-- [Geometry](https://github.com/EesaZahed/geometry/)
+- [Geometry](https://github.com/EesaZahed/geometry-whiz/)
 - [Test Social Media](https://github.com/EesaZahed/test-social-media/)
 - [Javascript Clock](https://github.com/EesaZahed/javascript-clock/)
 - [Javascript Todos](https://github.com/EesaZahed/js-todos/)
