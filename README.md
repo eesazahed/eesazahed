@@ -24,14 +24,14 @@ I have skills with HTML, CSS, Javascript, NodeJS, ReactJS, and some basic Python
 ## My Projects:
 
 - [React Simple Messaging](https://github.com/EesaZahed/react-simple-messaging)
-- [Lego Set Finder](https://eesazahed.github.io/lego-set-finder/)
-- [Geometry](https://eesazahed.github.io/geometry/)
-- [Test Social Media](https://eesazahed.github.io/geometry/)
-- [Javascript Clock](https://eesazahed.github.io/javascript-clock/)
-- [Javascript Todos](https://eesazahed.github.io/js-todos/)
-- [Chrome Homepage](https://eesazahed.github.io/homepage/)
+- [Lego Set Finder](https://github.com/EesaZahed/lego-set-finder/)
+- [Geometry](https://github.com/EesaZahed/geometry/)
+- [Test Social Media](https://github.com/EesaZahed/test-social-media/)
+- [Javascript Clock](https://github.com/EesaZahed/javascript-clock/)
+- [Javascript Todos](https://github.com/EesaZahed/js-todos/)
+- [Chrome Homepage](https://github.com/EesaZahed/homepage/)
 - [Chrome Homepage Extension](https://github.com/EesaZahed/chrome-extension-for-homepage)
-- [Follow My Stock](https://eesazahed.github.io/follow-my-stock/)
+- [Follow My Stock](https://github.com/EesaZahed/follow-my-stock/)
 - [Flask Tutoring](https://github.com/EesaZahed/flask-tutoring)
 - [Blue Google Chat](https://github.com/EesaZahed/blue-google-chat-chrome-extension)
 
