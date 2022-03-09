@@ -32,6 +32,7 @@ I have skills with HTML, CSS, Javascript, NodeJS, ReactJS, and some basic Python
 - [Follow My Stock](https://github.com/EesaZahed/follow-my-stock/)
 - [Flask Tutoring](https://github.com/EesaZahed/flask-tutoring)
 - [Blue Google Chat](https://github.com/EesaZahed/blue-google-chat-chrome-extension)
+- [Harry Potter Website](https://github.com/EesaZahed/harry-potter)
 
 ### Visitors Count
 
