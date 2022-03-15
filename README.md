@@ -21,7 +21,7 @@ I have skills with HTML, CSS, Javascript, NodeJS, ReactJS, and some basic Python
 
 ## My Projects:
 
-- [React Chat](https://github.com/EesaZahed/react-chat)
+- [Laser Chat](https://github.com/EesaZahed/laser-chat)
 - [React Simple Messaging](https://github.com/EesaZahed/react-simple-messaging)
 - [Lego Set Finder](https://github.com/EesaZahed/lego-set-finder/)
 - [Geometry](https://github.com/EesaZahed/geometry-whiz/)
