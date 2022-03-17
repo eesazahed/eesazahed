@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm [Eesa Zahed](https://eesa.zahed.ca). I'm 13 years old and I enjoy math, science, and front-end web developement.
 
-I have skills with HTML, CSS, Javascript, NodeJS, ReactJS, and some basic Python.
+I have skills with HTML, CSS, Javascript, NodeJS, ReactJS, Firebase, and some basic Python.
 
 ## My Projects:
 
