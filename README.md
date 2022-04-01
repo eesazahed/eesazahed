@@ -1,5 +1,3 @@
-# Hi there 👋
-
 <!--
 **EesaZahed/eesazahed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I'm taking a break from coding for a while (to focus on final exams) but I'll start committing again soon. Thank you for stopping by, though.
+# I'm taking a break from coding for a while (to focus on final exams), but I'll start committing again soon. Thank you for stopping by.
 
 I'm [Eesa Zahed](https://eesa.zahed.ca). I'm 13 years old and I enjoy math, science, and front-end web developement.
 
