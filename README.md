@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# I'm taking a break from coding for a while (to focus on final exams) but I'll start committing again soon. Thank you for stopping by, though.
+
 I'm [Eesa Zahed](https://eesa.zahed.ca). I'm 13 years old and I enjoy math, science, and front-end web developement.
 
 I have skills with HTML, CSS, Javascript, NodeJS, ReactJS, Firebase, and some basic Python.
