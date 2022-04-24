@@ -19,6 +19,7 @@ I have skills with HTML, CSS, Javascript, NodeJS, ReactJS, Firebase, and some ba
 
 ## My Projects:
 
+- [Laser Chat 2.0](https://github.com/EesaZahed/laser-chat-2.0)
 - [Laser Chat](https://github.com/EesaZahed/laser-chat)
 - [React Simple Messaging](https://github.com/EesaZahed/react-simple-messaging)
 - [Lego Set Finder](https://github.com/EesaZahed/lego-set-finder/)
