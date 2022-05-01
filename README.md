@@ -17,4 +17,4 @@ I'm Eesa Zahed. I'm 13 years old and I enjoy math, science, and front-end web de
 
 I have skills with HTML, CSS, Javascript, NodeJS, ReactJS, Firebase, Python.
 
-[Website](https://eesa.zahed.ca) - [Github](https://github.com/eesazahed) - [Replit](https://replit.com/@eesazahed) - [freeCodeCamp](https://forum.freecodecamp.org/u/eesa/summary)
+[Website](https://eesa.zahed.ca) - [Github](https://github.com/eesazahed) - [Replit](https://replit.com/@eesazahed) - [freeCodeCamp](https://forum.freecodecamp.org/u/eesa/)
