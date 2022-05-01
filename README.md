@@ -13,27 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm [Eesa Zahed](https://eesa.zahed.ca). I'm 13 years old and I enjoy math, science, and front-end web developement.
+I'm Eesa Zahed. I'm 13 years old and I enjoy math, science, and front-end web developement.
 
-I have skills with HTML, CSS, Javascript, NodeJS, ReactJS, Firebase, and some basic Python.
+I have skills with HTML, CSS, Javascript, NodeJS, ReactJS, Firebase, Python.
 
-## My Projects:
-
-- [Laser Chat 2.0](https://github.com/EesaZahed/laser-chat-2.0) (probably my best project so far)
-- [Laser Chat](https://github.com/EesaZahed/laser-chat)
-- [React Simple Messaging](https://github.com/EesaZahed/react-simple-messaging)
-- [Lego Set Finder](https://github.com/EesaZahed/lego-set-finder/)
-- [Geometry](https://github.com/EesaZahed/geometry-whiz/)
-- [Test Social Media](https://github.com/EesaZahed/test-social-media/)
-- [Javascript Clock](https://github.com/EesaZahed/javascript-clock/)
-- [Javascript Todos](https://github.com/EesaZahed/js-todos/)
-- [Chrome Homepage](https://github.com/EesaZahed/homepage/)
-- [Chrome Homepage Extension](https://github.com/EesaZahed/chrome-extension-for-homepage)
-- [Follow My Stock](https://github.com/EesaZahed/follow-my-stock/)
-- [Flask Tutoring](https://github.com/EesaZahed/flask-tutoring)
-- [Blue Google Chat](https://github.com/EesaZahed/blue-google-chat-chrome-extension)
-- [Harry Potter Website](https://github.com/EesaZahed/harry-potter)
-
-### Visitors Count
-
-<img align="left" src = "https://profile-counter.glitch.me/eesazahed/count.svg" alt ="Loading">
+[Website](https://eesa.zahed.ca) - [Github](https://github.com/eesazahed) - [Replit](https://replit.com/@eesazahed) - [freeCodeCamp](https://forum.freecodecamp.org/u/eesa/summary)
