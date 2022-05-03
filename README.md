@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Eesa Zahed. I'm 13 years old and I enjoy math, science, and front-end web developement.
+I'm Eesa Zahed. I'm 13 years old and I enjoy math, science, and web developement.
 
 I have skills with HTML, CSS, Javascript, NodeJS, ReactJS, Firebase, Python.
 
