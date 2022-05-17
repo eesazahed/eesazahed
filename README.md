@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 I'm Eesa Zahed. I'm 13 years old and I enjoy math, science, and web developement.
 
-I have skills with HTML, CSS, Javascript, NodeJS, ReactJS, Firebase, MongoDB, Python, and Flask.
+I have skills with MERN, Firebase, and NoSQL database projects.
+
+I use HTML, CSS, Javascript, Node, React, Firebase, MongoDB, Python, and Flask.
 
 [Website](https://eesa.zahed.ca) - [Github](https://github.com/eesazahed) - [Replit](https://replit.com/@eesazahed) - [freeCodeCamp](https://forum.freecodecamp.org/u/eesa/)
