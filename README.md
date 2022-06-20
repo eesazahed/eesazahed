@@ -4,4 +4,9 @@ I'm Eesa Zahed. I'm 13 years old and I'm interested in technology, history, and 
 
 I started to learn the concepts and fundamentals of programming at a young age, and I'm currently a learner of Full-Stack development. I mostly code with MERN, Google Firebase, and REST APIs. I use HTML, CSS, Javascript, Node, React, Firebase, MongoDB, Python, and Flask.
 
+My favourite projects:
+
+- [Laser Chat 2.0](https://github.com/eesazahed/laser-chat-2.0)
+- [array2table](https://github.com/eesazahed/array2table)
+
 [Website](https://eesa.zahed.ca) - [Github](https://github.com/eesazahed) - [Replit](https://replit.com/@eesazahed) - [freeCodeCamp](https://forum.freecodecamp.org/u/eesa/)
