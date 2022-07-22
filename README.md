@@ -1,6 +1,7 @@
 I'm Eesa Zahed, a 13 year old interested in technology, history, and math.
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=eesazahed&include_all_commits=true&show_icons=true&theme=dark" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eesazahed&theme=dark&layout=compact" />
 
 I started to learn the concepts and fundamentals of programming at a young age, and I'm currently a learner of Full-Stack development. I mostly code with MERN, Google Firebase, and REST APIs. I use HTML, CSS, Javascript, Node, React, Firebase, MongoDB, Python, and Flask.
 
