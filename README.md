@@ -10,4 +10,4 @@ At the moment, I mostly use:
 - MongoDB
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=eesazahed&include_all_commits=true&show_icons=true&theme=dark" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eesazahed&theme=dark&layout=compact" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eesazahed&theme=dark&layout=compact&include_all_commits=true" />
