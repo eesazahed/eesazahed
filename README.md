@@ -1,4 +1,4 @@
-Hello, my name is Eesa Zahed, and I do full-stack web developement as a hobby. I started coding in 2015, using Scratch to learn basic concepts. In 2018, I started learning web developement. 
+Hello, my name is Eesa Zahed, and I do full-stack web developement as a hobby.
 
 At the moment, I mostly use:
 
