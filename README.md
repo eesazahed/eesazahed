@@ -1,4 +1,12 @@
-Hello, my name is Eesa Zahed, and I do full-stack web developement as a hobby.
+<img width="100%" src="https://user-images.githubusercontent.com/97064249/211622393-8aca20e0-5d6b-4227-a1e0-2aadde3e3a2a.png" />
+
+Hello! My name is Eesa Zahed, and I'm a 14 year old full-stack dev.
+
+I like:
+
+- Dark mode
+- Open Source
+- Using coding to make my tasks in everyday life easier
 
 At the moment, I mostly use:
 
