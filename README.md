@@ -6,6 +6,8 @@ Hello! My name is Eesa Zahed, and I'm a 14 year old full-stack dev.
 
 I like:
 
+- Learning
+- Solving problems
 - Dark mode
 - Open source
 - Using coding to make my tasks in everyday life easier
