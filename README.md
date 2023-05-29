@@ -2,7 +2,7 @@
 
 <br />
 
-Hello! My name is Eesa Zahed, and I'm a 14 year old full-stack dev.
+Hello! My name is Eesa Zahed, and I'm a full-stack dev.
 
 I like:
 
