@@ -1,4 +1,6 @@
-# Check out my social media site! ([LaserSocial](https://laser.vercel.app/about))
+# I built a social media site! Try out [LaserSocial](https://laser.vercel.app/feed)!
+
+
 
 <img width="100%" src="https://user-images.githubusercontent.com/97064249/211691720-c97b3303-08cf-41c1-bc0e-944c8c11a824.png" />
 
