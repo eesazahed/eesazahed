@@ -14,4 +14,4 @@
 - [next-auth-boilerplate](https://github.com/eesazahed/next-auth-boilerplate) ~ full stack boilerplate  
 - [stockbot](https://github.com/eesazahed/stockbot) ~ a slack bot that fetches stock prices  
 - [quadratic-helper](https://github.com/eesazahed/quadratic-helper) ~ helps with quadratic equations  
-- [eesa.hackclub.app](https://github.com/eesazahed/eesa-hackclub-app) ~ this website  
+- [eesa.hackclub.app](https://github.com/eesazahed/eesa-hackclub-app) ~ a fun portfolio website  
